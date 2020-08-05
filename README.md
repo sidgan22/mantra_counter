@@ -1,12 +1,14 @@
 # Japam Counter
 
 Japam Counter :   Ad Free - Simple, intuitive app for your japam
-![Image 1](https://github.com/sidgan22/mantra_counter/tree/master/screenshots/1.jpg?raw=true)
- 
-<img src="https://github.com/sidgan22/mantra_counter/tree/master/screenshots/2.jpg" />
-<img src="https://github.com/sidgan22/mantra_counter/tree/master/screenshots/3.jpg" />
-<img src="https://github.com/sidgan22/mantra_counter/tree/master/screenshots/4.jpg" />
-<img src="https://github.com/sidgan22/mantra_counter/tree/master/screenshots/5.jpg" />
+
+<p float="left">
+<img src="https://github.com/sidgan22/mantra_counter/blob/master/screenshots/1.jpg" data-canonical-src="https://github.com/sidgan22/mantra_counter/blob/master/screenshots/1.jpg" width="150" height="350" />
+<img src="https://github.com/sidgan22/mantra_counter/blob/master/screenshots/2.jpg" data-canonical-src="https://github.com/sidgan22/mantra_counter/blob/master/screenshots/2.jpg" width="150" height="350" />
+<img src="https://github.com/sidgan22/mantra_counter/blob/master/screenshots/3.jpg" data-canonical-src="https://github.com/sidgan22/mantra_counter/blob/master/screenshots/3.jpg" width="150" height="350" />
+<img src="https://github.com/sidgan22/mantra_counter/blob/master/screenshots/4.jpg" data-canonical-src="https://github.com/sidgan22/mantra_counter/blob/master/screenshots/4.jpg" width="150" height="350" />
+<img src="https://github.com/sidgan22/mantra_counter/blob/master/screenshots/5.jpg" data-canonical-src="https://github.com/sidgan22/mantra_counter/blob/master/screenshots/5.jpg" width="150" height="350" />
+</p>
 
 Set the 'Skip by' value and the target count -  Click 'Refresh' to begin
 
