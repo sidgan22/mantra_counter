@@ -1,7 +1,7 @@
 # Japam Counter
 
 Japam Counter :   Ad Free - Simple, intuitive app for your japam
-![alt text](https://github.com/sidgan22/mantra_counter/tree/master/screenshots/1.jpg)
+![Image 1](https://github.com/sidgan22/mantra_counter/tree/master/screenshots/1.jpg?raw=true)
  
 <img src="https://github.com/sidgan22/mantra_counter/tree/master/screenshots/2.jpg" />
 <img src="https://github.com/sidgan22/mantra_counter/tree/master/screenshots/3.jpg" />
