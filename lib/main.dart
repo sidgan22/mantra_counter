@@ -2,6 +2,7 @@ import 'dart:async';
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:mantracounter/screens/HomePage.dart';
 
 void main() => runApp(MyApp());
@@ -14,7 +15,7 @@ class MyApp extends StatelessWidget {
       title: 'Japam Counter',
 
       theme: ThemeData(
-        primarySwatch: Colors.green,
+
       ),
       home: MyHomePage(title: 'Gayatri Japam Counter'),
     );
@@ -31,10 +32,10 @@ class MyHomePage extends StatefulWidget {
 
 class _MyHomePageState extends State<MyHomePage> {
   startTime() async {
-    var _duration = new Duration(seconds: 2);
-    return Timer(_duration, _Home);
+    var _duration = new Duration(seconds: 5);
+    return new Timer(_duration, Home);
   }
-  _Home()
+  void Home()
   {
     Navigator.of(context).pushReplacement(CupertinoPageRoute(builder: (context)=> HomePage()));
   }
@@ -42,6 +43,9 @@ class _MyHomePageState extends State<MyHomePage> {
   void initState() {
     // TODO: implement initState
     startTime();
+    SystemChrome.setPreferredOrientations([
+      DeviceOrientation.portraitUp,
+    ]);
     super.initState();
   }
   @override
